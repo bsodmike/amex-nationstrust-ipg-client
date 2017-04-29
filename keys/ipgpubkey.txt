@@ -1,0 +1,7 @@
+// Obtain this file by logging into NTB's portal
+//
+// The IPG public-key is unique to each environment they run,
+// this means that the public-key for their Live server is different to
+// that obtained from their Test server.
+//
+// It takes over 60-emails to figure this out.  Yeah.

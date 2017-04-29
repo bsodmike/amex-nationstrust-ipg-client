@@ -1,0 +1,8 @@
+amex-jar:
+  build: .
+  environment:
+    - IPG_PORT
+  volumes:
+    - ./log:/var/log/amex-nationstrust-ipg-client
+  ports:
+    - "9000:9000"
